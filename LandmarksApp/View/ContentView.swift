@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  AppTests
+//  LandmarksApp
 //
 //  Created by Daniel on 01/09/22.
 //

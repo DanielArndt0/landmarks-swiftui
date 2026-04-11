@@ -1,6 +1,6 @@
 //
 //  LandmarkRowView.swift
-//  AppTests
+//  LandmarksApp
 //
 //  Created by Daniel on 05/09/22.
 //

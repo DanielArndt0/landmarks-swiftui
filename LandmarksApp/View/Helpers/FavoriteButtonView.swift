@@ -1,6 +1,6 @@
 //
 //  FavoriteButtonView.swift
-//  AppTests
+//  LandmarksApp
 //
 //  Created by Daniel on 06/09/22.
 //

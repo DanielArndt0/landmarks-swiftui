@@ -1,8 +1,8 @@
 //
 //  LandmarkModel.swift
-//  AppTests
+//  LandmarksApp
 //
-//  Created by Daniel on 05/09/22.
+//  Created by Daniel Gier Arndt on 05/09/22.
 //
 
 import Foundation
@@ -55,6 +55,6 @@ struct Landmark: Codable, Hashable, Identifiable {
 
 struct Previews_LandmarkModel_Previews: PreviewProvider {
     static var previews: some View {
-        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+        Text("Hello, World!")
     }
 }
